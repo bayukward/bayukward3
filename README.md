@@ -18,3 +18,7 @@ function print_picture(size) {
     }
   }
 }
+
+let hello = 'llo'.repeat(3);
+
+console.log(hello) /llollollo
